@@ -1,1 +1,8 @@
+Flask
 gunicorn
+tensorflow
+opencv-python-headless
+numpy
+pdf2image
+PyPDF2
+werkzeug
