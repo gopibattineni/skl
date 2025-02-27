@@ -1,5 +1,5 @@
-node_modules
-.git
-__pycache__
-tests
-docs
+# Heres a comment
+*.psd
+*.pdf
+/test
+/spec
