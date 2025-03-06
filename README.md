@@ -1,7 +1,3 @@
-Here’s a structured **README.md** file for your GitHub repository:  
-
----
-
 # **Skin Lesion Detection App using MobileNetV3**  
 
 ![Skin Lesion Detection]([https://i.postimg.cc/y8ZZtk5B/Skin-lesion.png]) *(Optional: Add an image representing your project)*  
@@ -80,7 +76,3 @@ Contributions are welcome! Feel free to fork this repo, submit issues, or open a
 
 ## **📜 License**  
 This project is licensed under the **MIT License**.  
-
----
-
-This **README** ensures that your GitHub repository is well-structured and informative! 🚀 Let me know if you want any modifications. 😊
