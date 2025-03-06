@@ -1,6 +1,7 @@
 # **Skin Lesion Detection App using MobileNetV3**  
 
-![Skin Lesion Detection]([C:\Users\utente\Downloads\Skin lesion]) 
+![skl](skin_lesion.png)
+
 
 ## **📌 Overview**  
 This project is an **AI-powered skin lesion detection application** leveraging **MobileNetV3** for efficient and accurate classification of skin abnormalities. The model is designed to work on **mobile and edge devices**, making real-time detection accessible for dermatological analysis.  
