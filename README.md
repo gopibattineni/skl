@@ -17,7 +17,7 @@ This project is an **AI-powered skin lesion detection application** leveraging *
 - **Python** (TensorFlow, Keras)  
 - **MobileNetV3** (Pre-trained deep learning model)  
 - **Flask/FastAPI** (For backend API)  
-- **Streamlit/Flutter** (For frontend UI – Optional)  
+- **Html/CSS** (For frontend UI – Optional)  
 - **OpenCV** (Image preprocessing)  
 
 ## **📂 Project Structure**  
@@ -41,8 +41,8 @@ This project is an **AI-powered skin lesion detection application** leveraging *
 ## **📖 How to Use**  
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/skin-lesion-detection.git
-cd skin-lesion-detection
+git clone https://github.com/gopibattineni/skl.git
+cd skl
 ```
 ### **2️⃣ Install Dependencies**  
 ```bash
