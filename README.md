@@ -1,6 +1,6 @@
 # **Skin Lesion Detection App using MobileNetV3**  
 
-![skl](skin_lesion.png)
+![Skin Lesion Detection](https://raw.githubusercontent.com/gopibattineni/skl/main/Skin%20lesion.png)
 
 
 ## **📌 Overview**  
